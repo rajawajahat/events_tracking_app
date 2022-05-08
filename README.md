@@ -1,5 +1,5 @@
 # Mandrill Events Tracking App
-This is the repository containing APP which is built using Django, Redis and containerized via Docker.
+This is the repository containing APP which is built using FastAPI, Redis and containerized via Docker.
 
 ## Description:
 This App contain API which can be used as callback url for different kind of <b>Mandrill App</b> webhooks.
